@@ -40,4 +40,3 @@ engineering-clarifier/SKILL.md
 
 - `engineering-session-journaler` is a public/global skill.
 - `engineering-clarifier` is a public/global skill.
-- `amber-bench-session-journaler` remains AMBER-specific and is intentionally not part of this repo's initial public release.
